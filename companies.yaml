@@ -1,0 +1,840 @@
+companies:
+- name: HCLTech
+  sector: IT Services & Consulting
+  ncr: Noida
+  careers_url: https://www.hcltech.com/careers
+  ats: successfactors
+- name: Genpact
+  sector: IT Services & Consulting
+  ncr: Gurugram
+  careers_url: https://www.genpact.com/careers
+  ats: unknown
+  ats_note: 'ERR '
+- name: EXL
+  sector: IT Services & Consulting
+  ncr: Noida/Gurugram
+  careers_url: https://www.exlservice.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: WNS
+  sector: IT Services & Consulting
+  ncr: Gurugram/Noida
+  careers_url: https://www.wns.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Nagarro
+  sector: IT Services & Consulting
+  ncr: Gurugram
+  careers_url: https://www.nagarro.com/en/careers
+  ats: unknown
+  ats_note: http=200
+- name: Publicis Sapient
+  sector: IT Services & Consulting
+  ncr: Gurugram
+  careers_url: https://www.publicissapient.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Tech Mahindra
+  sector: IT Services & Consulting
+  ncr: Delhi NCR
+  careers_url: https://careers.techmahindra.com
+  ats: unknown
+  ats_note: 'ERR '
+- name: TCS
+  sector: IT Services & Consulting
+  ncr: Delhi NCR
+  careers_url: https://www.tcs.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Infosys
+  sector: IT Services & Consulting
+  ncr: Delhi NCR
+  careers_url: https://www.infosys.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Wipro
+  sector: IT Services & Consulting
+  ncr: Delhi NCR
+  careers_url: https://careers.wipro.com
+  ats: successfactors
+- name: Cognizant
+  sector: IT Services & Consulting
+  ncr: Delhi NCR
+  careers_url: https://careers.cognizant.com
+  ats: unknown
+  ats_note: http=403
+- name: Capgemini
+  sector: IT Services & Consulting
+  ncr: Delhi NCR
+  careers_url: https://www.capgemini.com/in-en/careers
+  ats: unknown
+  ats_note: http=200
+- name: Accenture
+  sector: IT Services & Consulting
+  ncr: Delhi NCR
+  careers_url: https://www.accenture.com/in-en/careers
+  ats: workday
+  ats_note: tenant?
+- name: Coforge
+  sector: IT Services & Consulting
+  ncr: Noida
+  careers_url: https://www.coforge.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Birlasoft
+  sector: IT Services & Consulting
+  ncr: Noida
+  careers_url: https://www.birlasoft.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: LTIMindtree
+  sector: IT Services & Consulting
+  ncr: Delhi NCR
+  careers_url: https://www.ltimindtree.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Mphasis
+  sector: IT Services & Consulting
+  ncr: Delhi NCR
+  careers_url: https://careers.mphasis.com
+  ats: unknown
+  ats_note: http=200
+- name: Hexaware
+  sector: IT Services & Consulting
+  ncr: Noida
+  careers_url: https://hexaware.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Cyient
+  sector: IT Services & Consulting
+  ncr: Noida
+  careers_url: https://www.cyient.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: R Systems
+  sector: IT Services & Consulting
+  ncr: Noida
+  careers_url: https://www.rsystems.com/careers
+  ats: unknown
+  ats_note: http=404
+- name: GlobalLogic
+  sector: IT Services & Consulting
+  ncr: Noida
+  careers_url: https://www.globallogic.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Sopra Steria
+  sector: IT Services & Consulting
+  ncr: Noida
+  careers_url: https://www.soprasteria.in/careers
+  ats: successfactors
+- name: Atos
+  sector: IT Services & Consulting
+  ncr: Delhi NCR
+  careers_url: https://atos.net/en/careers
+  ats: unknown
+  ats_note: http=200
+- name: DXC
+  sector: IT Services & Consulting
+  ncr: Delhi NCR
+  careers_url: https://careers.dxc.com
+  ats: unknown
+  ats_note: http=200
+- name: Kyndryl
+  sector: IT Services & Consulting
+  ncr: Delhi NCR
+  careers_url: https://www.kyndryl.com/in/en/careers
+  ats: unknown
+  ats_note: http=200
+- name: Amdocs
+  sector: IT Services & Consulting
+  ncr: Gurugram
+  careers_url: https://www.amdocs.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Gartner
+  sector: IT Services & Consulting
+  ncr: Gurugram
+  careers_url: https://jobs.gartner.com
+  ats: unknown
+  ats_note: http=403
+- name: Adobe
+  sector: Global Tech & Product
+  ncr: Noida
+  careers_url: https://careers.adobe.com
+  ats: phenom
+- name: Microsoft
+  sector: Global Tech & Product
+  ncr: Gurugram/Noida
+  careers_url: https://careers.microsoft.com
+  ats: unknown
+  ats_note: http=200
+- name: Google
+  sector: Global Tech & Product
+  ncr: Gurugram
+  careers_url: https://www.google.com/about/careers/applications/
+  ats: unknown
+  ats_note: http=200
+- name: Amazon
+  sector: Global Tech & Product
+  ncr: Gurugram/Noida
+  careers_url: https://www.amazon.jobs
+  ats: unknown
+  ats_note: http=200
+- name: IBM
+  sector: Global Tech & Product
+  ncr: Delhi NCR
+  careers_url: https://www.ibm.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Oracle
+  sector: Global Tech & Product
+  ncr: Gurugram/Noida
+  careers_url: https://careers.oracle.com
+  ats: unknown
+  ats_note: http=200
+- name: SAP
+  sector: Global Tech & Product
+  ncr: Gurugram
+  careers_url: https://jobs.sap.com
+  ats: unknown
+  ats_note: http=403
+- name: Cisco
+  sector: Global Tech & Product
+  ncr: Delhi NCR
+  careers_url: https://jobs.cisco.com
+  ats: phenom
+- name: Dell
+  sector: Global Tech & Product
+  ncr: Delhi NCR
+  careers_url: https://jobs.dell.com
+  ats: unknown
+  ats_note: http=200
+- name: Salesforce
+  sector: Global Tech & Product
+  ncr: Delhi NCR
+  careers_url: https://careers.salesforce.com
+  ats: unknown
+  ats_note: http=200
+- name: ServiceNow
+  sector: Global Tech & Product
+  ncr: Delhi NCR
+  careers_url: https://careers.servicenow.com
+  ats: unknown
+  ats_note: http=403
+- name: Sprinklr
+  sector: Global Tech & Product
+  ncr: Gurugram
+  careers_url: https://www.sprinklr.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Cvent
+  sector: Global Tech & Product
+  ncr: Gurugram
+  careers_url: https://www.cvent.com/en/careers
+  ats: icims
+- name: Ciena
+  sector: Global Tech & Product
+  ncr: Gurugram
+  careers_url: https://www.ciena.com/about/careers
+  ats: unknown
+  ats_note: http=403
+- name: Ericsson
+  sector: Global Tech & Product
+  ncr: Gurugram
+  careers_url: https://www.ericsson.com/en/careers
+  ats: unknown
+  ats_note: http=403
+- name: Nokia
+  sector: Global Tech & Product
+  ncr: Delhi NCR
+  careers_url: https://www.nokia.com/about-us/careers
+  ats: unknown
+  ats_note: http=200
+- name: Qualcomm
+  sector: Global Tech & Product
+  ncr: Noida
+  careers_url: https://careers.qualcomm.com
+  ats: eightfold
+- name: Synopsys
+  sector: Global Tech & Product
+  ncr: Noida
+  careers_url: https://careers.synopsys.com
+  ats: avature
+- name: Cadence
+  sector: Global Tech & Product
+  ncr: Noida
+  careers_url: https://www.cadence.com/en_US/home/company/careers.html
+  ats: unknown
+  ats_note: http=403
+- name: NXP
+  sector: Global Tech & Product
+  ncr: Noida
+  careers_url: https://www.nxp.com/company/about-nxp/careers
+  ats: workday
+  ats_note: tenant=nxp
+- name: STMicroelectronics
+  sector: Global Tech & Product
+  ncr: Noida
+  careers_url: https://www.st.com/content/st_com/en/about/careers.html
+  ats: eightfold
+- name: Siemens
+  sector: Global Tech & Product
+  ncr: Delhi NCR
+  careers_url: https://jobs.siemens.com
+  ats: unknown
+  ats_note: http=200
+- name: Schneider Electric
+  sector: Global Tech & Product
+  ncr: Gurugram
+  careers_url: https://www.se.com/in/en/about-us/careers
+  ats: unknown
+  ats_note: http=200
+- name: ABB
+  sector: Global Tech & Product
+  ncr: Delhi NCR
+  careers_url: https://careers.abb
+  ats: phenom
+- name: Honeywell
+  sector: Global Tech & Product
+  ncr: Delhi NCR
+  careers_url: https://careers.honeywell.com
+  ats: phenom
+- name: Deloitte
+  sector: Big 4 & Strategy Consulting
+  ncr: Gurugram
+  careers_url: https://www.deloitte.com/in/en/careers.html
+  ats: unknown
+  ats_note: http=200
+- name: EY
+  sector: Big 4 & Strategy Consulting
+  ncr: Gurugram
+  careers_url: https://www.ey.com/en_in/careers
+  ats: unknown
+  ats_note: http=200
+- name: KPMG
+  sector: Big 4 & Strategy Consulting
+  ncr: Gurugram
+  careers_url: https://home.kpmg/in/en/home/careers.html
+  ats: unknown
+  ats_note: http=200
+- name: PwC
+  sector: Big 4 & Strategy Consulting
+  ncr: Gurugram
+  careers_url: https://www.pwc.in/careers.html
+  ats: unknown
+  ats_note: http=200
+- name: Grant Thornton Bharat
+  sector: Big 4 & Strategy Consulting
+  ncr: Gurugram
+  careers_url: https://www.grantthornton.in/careers
+  ats: unknown
+  ats_note: http=200
+- name: McKinsey
+  sector: Big 4 & Strategy Consulting
+  ncr: Gurugram
+  careers_url: https://www.mckinsey.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: BCG
+  sector: Big 4 & Strategy Consulting
+  ncr: Gurugram
+  careers_url: https://careers.bcg.com
+  ats: phenom
+- name: Bain
+  sector: Big 4 & Strategy Consulting
+  ncr: Gurugram
+  careers_url: https://www.bain.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Kearney
+  sector: Big 4 & Strategy Consulting
+  ncr: Gurugram
+  careers_url: https://www.kearney.com/careers
+  ats: unknown
+  ats_note: http=403
+- name: Evalueserve
+  sector: Big 4 & Strategy Consulting
+  ncr: Gurugram
+  careers_url: https://www.evalueserve.com/careers
+  ats: unknown
+  ats_note: http=403
+- name: Paytm
+  sector: Startups & Internet
+  ncr: Noida
+  careers_url: https://paytm.com/careers
+  ats: lever
+  ats_note: slug=paytm
+- name: Zomato / Eternal
+  sector: Startups & Internet
+  ncr: Gurugram
+  careers_url: https://www.zomato.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Blinkit
+  sector: Startups & Internet
+  ncr: Gurugram
+  careers_url: https://blinkit.com/careers
+  ats: unknown
+  ats_note: http=403
+- name: PolicyBazaar
+  sector: Startups & Internet
+  ncr: Gurugram
+  careers_url: https://www.policybazaar.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: MakeMyTrip
+  sector: Startups & Internet
+  ncr: Gurugram
+  careers_url: https://careers.makemytrip.com
+  ats: unknown
+  ats_note: http=200
+- name: ixigo
+  sector: Startups & Internet
+  ncr: Gurugram
+  careers_url: https://www.ixigo.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Delhivery
+  sector: Startups & Internet
+  ncr: Gurugram
+  careers_url: https://www.delhivery.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Urban Company
+  sector: Startups & Internet
+  ncr: Gurugram
+  careers_url: https://www.urbancompany.com/careers
+  ats: unknown
+  ats_note: http=404
+- name: Info Edge / Naukri
+  sector: Startups & Internet
+  ncr: Noida
+  careers_url: https://www.infoedge.in/careers
+  ats: unknown
+  ats_note: http=404
+- name: OYO
+  sector: Startups & Internet
+  ncr: Gurugram
+  careers_url: https://www.oyorooms.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Cars24
+  sector: Startups & Internet
+  ncr: Gurugram
+  careers_url: https://www.cars24.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Spinny
+  sector: Startups & Internet
+  ncr: Gurugram
+  careers_url: https://www.spinny.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Lenskart
+  sector: Startups & Internet
+  ncr: Delhi NCR
+  careers_url: https://www.lenskart.com/careers
+  ats: unknown
+  ats_note: http=403
+- name: PhysicsWallah
+  sector: Startups & Internet
+  ncr: Noida
+  careers_url: https://www.pw.live/careers
+  ats: unknown
+  ats_note: http=404
+- name: BharatPe
+  sector: Startups & Internet
+  ncr: Delhi
+  careers_url: https://bharatpe.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: MobiKwik
+  sector: Startups & Internet
+  ncr: Gurugram
+  careers_url: https://www.mobikwik.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Pine Labs
+  sector: Startups & Internet
+  ncr: Noida
+  careers_url: https://www.pinelabs.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Shiprocket
+  sector: Startups & Internet
+  ncr: Delhi
+  careers_url: https://www.shiprocket.in/careers
+  ats: unknown
+  ats_note: http=403
+- name: Ecom Express
+  sector: Startups & Internet
+  ncr: Gurugram
+  careers_url: https://www.ecomexpress.in/careers
+  ats: unknown
+  ats_note: 'ERR [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate
+    has expired (_ssl.'
+- name: Country Delight
+  sector: Startups & Internet
+  ncr: Gurugram
+  careers_url: https://www.countrydelight.in/careers
+  ats: unknown
+  ats_note: http=200
+- name: Tata 1mg
+  sector: Startups & Internet
+  ncr: Gurugram
+  careers_url: https://www.1mg.com/careers
+  ats: unknown
+  ats_note: http=404
+- name: Concentrix
+  sector: BPO, KPO & CX
+  ncr: Gurugram/Noida
+  careers_url: https://careers.concentrix.com
+  ats: unknown
+  ats_note: ERR [Errno 11001] getaddrinfo failed
+- name: Teleperformance
+  sector: BPO, KPO & CX
+  ncr: Delhi NCR
+  careers_url: https://jobs.teleperformance.com
+  ats: unknown
+  ats_note: ERR [Errno 11001] getaddrinfo failed
+- name: Conduent
+  sector: BPO, KPO & CX
+  ncr: Gurugram/Noida
+  careers_url: https://jobs.conduent.com
+  ats: unknown
+  ats_note: 'ERR [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure
+    (_ssl.c:1010)'
+- name: Sutherland
+  sector: BPO, KPO & CX
+  ncr: Delhi NCR
+  careers_url: https://www.sutherlandglobal.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Firstsource
+  sector: BPO, KPO & CX
+  ncr: Delhi NCR
+  careers_url: https://www.firstsource.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: TaskUs
+  sector: BPO, KPO & CX
+  ncr: Delhi NCR
+  careers_url: https://www.taskus.com/careers
+  ats: unknown
+  ats_note: http=403
+- name: Xerox
+  sector: BPO, KPO & CX
+  ncr: Delhi NCR
+  careers_url: https://www.xerox.com/en-us/jobs
+  ats: unknown
+  ats_note: http=200
+- name: American Express
+  sector: Banking, Finance & Insurance
+  ncr: Gurugram
+  careers_url: https://www.americanexpress.com/en-in/careers
+  ats: unknown
+  ats_note: http=404
+- name: Barclays
+  sector: Banking, Finance & Insurance
+  ncr: Noida
+  careers_url: https://home.barclays/careers
+  ats: unknown
+  ats_note: http=200
+- name: Citi
+  sector: Banking, Finance & Insurance
+  ncr: Gurugram
+  careers_url: https://jobs.citi.com
+  ats: workday
+  ats_note: tenant=citi
+- name: JPMorgan
+  sector: Banking, Finance & Insurance
+  ncr: Delhi NCR
+  careers_url: https://careers.jpmorgan.com
+  ats: unknown
+  ats_note: http=200
+- name: HSBC
+  sector: Banking, Finance & Insurance
+  ncr: Gurugram
+  careers_url: https://www.hsbc.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Standard Chartered
+  sector: Banking, Finance & Insurance
+  ncr: Delhi NCR
+  careers_url: https://www.sc.com/en/careers
+  ats: unknown
+  ats_note: http=200
+- name: Deutsche Bank
+  sector: Banking, Finance & Insurance
+  ncr: Delhi NCR
+  careers_url: https://careers.db.com
+  ats: unknown
+  ats_note: http=200
+- name: Moody's
+  sector: Banking, Finance & Insurance
+  ncr: Noida/Gurugram
+  careers_url: https://careers.moodys.com
+  ats: successfactors
+- name: S&P Global
+  sector: Banking, Finance & Insurance
+  ncr: Gurugram
+  careers_url: https://careers.spglobal.com
+  ats: workday
+  ats_note: tenant=spgi
+- name: MSCI
+  sector: Banking, Finance & Insurance
+  ncr: Gurugram
+  careers_url: https://careers.msci.com
+  ats: icims
+- name: Fidelity International
+  sector: Banking, Finance & Insurance
+  ncr: Gurugram
+  careers_url: https://careers.fidelityinternational.com
+  ats: workday
+  ats_note: tenant=fil
+- name: Aon
+  sector: Banking, Finance & Insurance
+  ncr: Gurugram
+  careers_url: https://jobs.aon.com
+  ats: icims
+- name: Marsh McLennan
+  sector: Banking, Finance & Insurance
+  ncr: Gurugram
+  careers_url: https://careers.marsh.com
+  ats: phenom
+- name: WTW
+  sector: Banking, Finance & Insurance
+  ncr: Gurugram
+  careers_url: https://careers.wtwco.com
+  ats: unknown
+  ats_note: http=200
+- name: Optum / UnitedHealth Group
+  sector: Banking, Finance & Insurance
+  ncr: Gurugram
+  careers_url: https://careers.unitedhealthgroup.com
+  ats: taleo
+- name: ICICI Bank
+  sector: Banking, Finance & Insurance
+  ncr: Delhi NCR
+  careers_url: https://www.icicicareers.com
+  ats: unknown
+  ats_note: http=200
+- name: Axis Bank
+  sector: Banking, Finance & Insurance
+  ncr: Delhi NCR
+  careers_url: https://www.axisbank.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Kotak Mahindra Bank
+  sector: Banking, Finance & Insurance
+  ncr: Delhi NCR
+  careers_url: https://www.kotak.com/en/about-us/careers.html
+  ats: unknown
+  ats_note: http=200
+- name: Yes Bank
+  sector: Banking, Finance & Insurance
+  ncr: Delhi NCR
+  careers_url: https://www.yesbank.in/careers
+  ats: unknown
+  ats_note: http=404
+- name: IDFC First Bank
+  sector: Banking, Finance & Insurance
+  ncr: Delhi NCR
+  careers_url: https://www.idfcfirstbank.com/careers
+  ats: unknown
+  ats_note: 'ERR [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname
+    mismatch, certificate'
+- name: Airtel
+  sector: Telecom
+  ncr: Gurugram
+  careers_url: https://www.airtel.in/careers
+  ats: unknown
+  ats_note: http=200
+- name: Reliance Jio
+  sector: Telecom
+  ncr: Delhi NCR
+  careers_url: https://careers.jio.com
+  ats: unknown
+  ats_note: http=200
+- name: Vodafone Idea
+  sector: Telecom
+  ncr: Delhi NCR
+  careers_url: https://www.myvi.in/about-us/careers
+  ats: unknown
+  ats_note: http=404
+- name: Indus Towers
+  sector: Telecom
+  ncr: Gurugram
+  careers_url: https://www.industowers.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Maruti Suzuki
+  sector: Automobile & Manufacturing
+  ncr: Gurugram
+  careers_url: https://www.marutisuzuki.com/corporate/careers
+  ats: unknown
+  ats_note: http=200
+- name: Hero MotoCorp
+  sector: Automobile & Manufacturing
+  ncr: Delhi
+  careers_url: https://www.heromotocorp.com/en-in/careers
+  ats: unknown
+  ats_note: http=200
+- name: Escorts Kubota
+  sector: Automobile & Manufacturing
+  ncr: Faridabad
+  careers_url: https://www.escortskubota.com/careers
+  ats: unknown
+  ats_note: http=404
+- name: Motherson
+  sector: Automobile & Manufacturing
+  ncr: Noida
+  careers_url: https://www.motherson.com/careers
+  ats: unknown
+  ats_note: http=403
+- name: Havells
+  sector: Automobile & Manufacturing
+  ncr: Noida
+  careers_url: https://www.havells.com/en/careers.html
+  ats: unknown
+  ats_note: http=406
+- name: Daikin India
+  sector: Automobile & Manufacturing
+  ncr: Gurugram
+  careers_url: https://www.daikinindia.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Dabur
+  sector: FMCG, Pharma & Healthcare
+  ncr: Ghaziabad
+  careers_url: https://www.dabur.com/careers
+  ats: unknown
+  ats_note: http=404
+- name: Nestlé India
+  sector: FMCG, Pharma & Healthcare
+  ncr: Gurugram
+  careers_url: https://www.nestle.in/jobs
+  ats: unknown
+  ats_note: http=403
+- name: Varun Beverages
+  sector: FMCG, Pharma & Healthcare
+  ncr: Gurugram
+  careers_url: https://www.varunbeverages.com/careers
+  ats: unknown
+  ats_note: http=404
+- name: Sun Pharma
+  sector: FMCG, Pharma & Healthcare
+  ncr: Gurugram
+  careers_url: https://sunpharma.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Max Healthcare
+  sector: FMCG, Pharma & Healthcare
+  ncr: Delhi NCR
+  careers_url: https://www.maxhealthcare.in/careers
+  ats: unknown
+  ats_note: http=404
+- name: Fortis Healthcare
+  sector: FMCG, Pharma & Healthcare
+  ncr: Gurugram
+  careers_url: https://www.fortishealthcare.com/careers
+  ats: unknown
+  ats_note: http=403
+- name: Medanta
+  sector: FMCG, Pharma & Healthcare
+  ncr: Gurugram
+  careers_url: https://www.medanta.org/careers
+  ats: unknown
+  ats_note: http=200
+- name: Apollo Hospitals
+  sector: FMCG, Pharma & Healthcare
+  ncr: Delhi
+  careers_url: https://www.apollohospitals.com/careers
+  ats: unknown
+  ats_note: http=403
+- name: Dr Lal PathLabs
+  sector: FMCG, Pharma & Healthcare
+  ncr: Delhi
+  careers_url: https://www.lalpathlabs.com/careers
+  ats: unknown
+  ats_note: http=404
+- name: Air India
+  sector: Aviation, Transport & Infra
+  ncr: Gurugram
+  careers_url: https://www.airindia.com/in/en/careers.html
+  ats: unknown
+  ats_note: http=404
+- name: IndiGo
+  sector: Aviation, Transport & Infra
+  ncr: Gurugram
+  careers_url: https://www.goindigo.in/careers.html
+  ats: unknown
+  ats_note: http=200
+- name: SpiceJet
+  sector: Aviation, Transport & Infra
+  ncr: Gurugram
+  careers_url: https://www.spicejet.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: Delhi Metro (DMRC)
+  sector: Aviation, Transport & Infra
+  ncr: Delhi
+  careers_url: https://www.delhimetrorail.com/careers
+  ats: unknown
+  ats_note: http=200
+- name: GMR Group
+  sector: Aviation, Transport & Infra
+  ncr: Delhi
+  careers_url: https://www.gmrgroup.in/careers
+  ats: unknown
+  ats_note: http=503
+- name: RITES
+  sector: Aviation, Transport & Infra
+  ncr: Gurugram
+  careers_url: https://www.rites.com/careers
+  ats: unknown
+  ats_note: 'ERR [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable
+    to get local issuer cer'
+- name: NTPC
+  sector: PSUs & Energy
+  ncr: Noida
+  careers_url: https://www.ntpc.co.in/careers
+  ats: unknown
+  ats_note: http=404
+- name: Power Grid
+  sector: PSUs & Energy
+  ncr: Gurugram
+  careers_url: https://www.powergrid.in/careers
+  ats: unknown
+  ats_note: http=404
+- name: GAIL
+  sector: PSUs & Energy
+  ncr: Noida
+  careers_url: https://gailonline.com/CRCareers.html
+  ats: unknown
+  ats_note: http=404
+- name: ONGC
+  sector: PSUs & Energy
+  ncr: Delhi
+  careers_url: https://ongcindia.com/web/eng/careers
+  ats: unknown
+  ats_note: 'ERR '
+- name: Indian Oil
+  sector: PSUs & Energy
+  ncr: Delhi
+  careers_url: https://iocl.com/latest-job-opening
+  ats: unknown
+  ats_note: http=307
+- name: SBI
+  sector: PSUs & Energy
+  ncr: Delhi NCR
+  careers_url: https://sbi.co.in/web/careers
+  ats: unknown
+  ats_note: http=200
+- name: PNB
+  sector: PSUs & Energy
+  ncr: Delhi
+  careers_url: https://www.pnbindia.in/Recruitments.aspx
+  ats: unknown
+  ats_note: http=200

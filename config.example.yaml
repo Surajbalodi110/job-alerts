@@ -1,0 +1,16 @@
+# Copy to config.yaml and edit. Multiple queries supported.
+poll_seconds: 600
+max_per_query_per_run: 5
+
+queries:
+  - name: "tech-support-remote"
+    keywords: ["technical support", "support specialist", "helpdesk"]
+    location: ""            # empty = any location
+    remote_only: true
+    exclude_keywords: ["senior staff", "manager"]
+
+  - name: "tech-support-india"
+    keywords: ["technical support"]
+    location: "india"
+    remote_only: false
+    exclude_keywords: []

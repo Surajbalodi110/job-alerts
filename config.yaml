@@ -1,0 +1,86 @@
+poll_seconds: 600
+max_per_query_per_run: 5
+queries:
+- name: tech-support-remote
+  keywords:
+  - technical support
+  - support specialist
+  - helpdesk
+  - help desk
+  - service desk
+  location: ''
+  remote_only: true
+  exclude_keywords:
+  - senior staff
+  - manager
+- name: delhi-ncr-support
+  keywords:
+  - technical support
+  - IT support
+  - desktop support
+  - IT help desk
+  - helpdesk
+  - help desk
+  - product support
+  - support specialist
+  - support engineer
+  - service desk
+  - system support
+  location:
+  - Delhi
+  - New Delhi
+  - Noida
+  - Greater Noida
+  - Gurugram
+  - Gurgaon
+  - NCR
+  remote_only: false
+  exclude_keywords:
+  - senior
+  - lead
+  - manager
+  - director
+- name: entry-cyber-ncr
+  keywords:
+  - SOC analyst
+  - SOC engineer
+  - security analyst
+  - cybersecurity analyst
+  - cyber security trainee
+  - security trainee
+  - incident response
+  - vulnerability assessment
+  - information security
+  - GRC analyst
+  - security operations
+  location:
+  - Delhi
+  - New Delhi
+  - Noida
+  - Greater Noida
+  - Gurugram
+  - Gurgaon
+  - NCR
+  remote_only: false
+  exclude_keywords:
+  - senior
+  - lead
+  - principal
+  - architect
+  - manager
+  - director
+  - VP
+- name: my-ncr-jobs
+  keywords:
+  - SOC analyst
+  - SOC engineer
+  location:
+  - Noida
+  - Gurgaon
+  - Delhi
+  remote_only: false
+  exclude_keywords:
+  - senior
+  - lead
+  - manager
+  - director

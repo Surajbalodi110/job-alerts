@@ -1,0 +1,31 @@
+name: poll-jobs
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # every 15 min; public repos = free unlimited minutes
+  workflow_dispatch:
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      # persist dedup DB across runs — without this every run resends old jobs
+      - uses: actions/cache@v4
+        with:
+          path: seen.db
+          key: seen-db-v1
+          restore-keys: seen-db-v1
+      # uses YOUR committed config.yaml (saved auto-alerts) — do not overwrite
+      - run: python main.py --mode once
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          ADZUNA_COUNTRY: in
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          GREENHOUSE_BOARDS: datadog,cloudflare
+          LEVER_COMPANIES: lever,paytm
