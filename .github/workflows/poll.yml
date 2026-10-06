@@ -12,12 +12,13 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
-      # persist dedup DB across runs — without this every run resends old jobs
-      - uses: actions/cache@v6
+      # persist dedup DB across runs — restore latest, save a fresh copy each run
+      # (a static cache key is never updated, so key each save by run)
+      - uses: actions/cache/restore@v6
         with:
           path: seen.db
-          key: seen-db-v1
-          restore-keys: seen-db-v1
+          key: seen-db-${{ github.run_id }}
+          restore-keys: seen-db-
       # uses YOUR committed config.yaml (saved auto-alerts) — do not overwrite
       - run: python main.py --mode once
         env:
@@ -29,3 +30,8 @@ jobs:
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
           GREENHOUSE_BOARDS: datadog,cloudflare
           LEVER_COMPANIES: lever,paytm
+      - uses: actions/cache/save@v6
+        if: always()
+        with:
+          path: seen.db
+          key: seen-db-${{ github.run_id }}
